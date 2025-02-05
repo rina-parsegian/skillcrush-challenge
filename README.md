@@ -1,1 +1,1 @@
-# skillcrush-chllenge
+# skillcrush-challenge
